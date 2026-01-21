@@ -17,7 +17,7 @@ Agriculture-Inventory-Management-System/
 └── README.md
 
 ## 📊 Visualizations & Outputs
-# 📈 Daily Soil Testing Trend
+📈 Daily Soil Testing Trend
 <img width="761" height="602" alt="daily_testing_trend png" src="https://github.com/user-attachments/assets/0cad34f5-45ea-4c3f-bb7c-36c2a1d07c2d" />
 
 Shows the number of soil samples tested each day to monitor testing frequency and trends.
