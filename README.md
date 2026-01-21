@@ -3,6 +3,34 @@
 ## Overview
 This project is a Python and MySQL based Agriculture Inventory Management System designed to manage soil samples, crop records, and fertilizer inventory. The system supports CSV-based bulk data ingestion, database storage, analytical reporting, and data visualization.
 
+## 📂 Folder Structure (Updated)
+Agriculture-Inventory-Management-System/
+│
+├── data/                  # CSV files
+├── sql/                   # Database scripts
+├── screenshots/           # Output charts & graphs
+│   ├── daily_testing_trend.png
+│   ├── low_stock_fertilizers.png
+│   └── soil_ph_distribution.png
+├── main.py
+├── visualization.py
+└── README.md
+
+## 📊 Visualizations & Outputs
+# 📈 Daily Soil Testing Trend
+<img width="761" height="602" alt="daily_testing_trend png" src="https://github.com/user-attachments/assets/0cad34f5-45ea-4c3f-bb7c-36c2a1d07c2d" />
+
+Shows the number of soil samples tested each day to monitor testing frequency and trends.
+
+🚨 Low Stock Fertilizers
+<img width="1736" height="788" alt="low_stock_fertilizers png" src="https://github.com/user-attachments/assets/f4577a6d-aa1a-4616-bbf6-99bf476f6579" />
+
+Identifies fertilizers with low inventory levels to support timely restocking decisions.
+
+🧪 Soil pH Distribution
+<img width="787" height="636" alt="soil_ph_distribution png" src="https://github.com/user-attachments/assets/1168df2a-3b55-46c5-8de9-f40f61724d73" />
+
+Displays the distribution of soil pH values to analyze soil health and suitability for crops.
 ## Features
 - Soil sample inventory management
 - Fertilizer stock management with low-stock alerts
